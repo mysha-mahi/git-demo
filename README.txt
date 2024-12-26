@@ -2,7 +2,4 @@
 
 this is a demo for git repo.
 
-
-some more text.....
-
-some additional text....
+new index file added..
